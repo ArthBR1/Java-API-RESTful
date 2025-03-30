@@ -126,3 +126,9 @@ classDiagram
     INVESTMENT
   }
 ```
+
+# Referência Bibliográfica
+
+Foi utilizada como referência para esse projeto os conteúdos da Digital Innovation One, principalmente o projeto da API RESTful da Santander Dev Week 2023, disponível no link abaixo:
+
+https://github.com/falvojr/santander-dev-week-2023
